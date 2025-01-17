@@ -43,4 +43,4 @@
 2. Abre el archivo index.html en tu navegador web para ver el proyecto.
     
 <p>Este reto me permitió reforzar mis conocimientos sobre CSS Grid y diseño responsivo, dos habilidades fundamentales en el desarrollo frontend. Aunque el proyecto es sencillo, representa un gran paso en mi aprendizaje y práctica de maquetación.</p>
-<p>Puedes ver la demostración del proyecto <a href="https://jordanmedinaortiz.github.io/fourcardfeaturesection/" target="_blank">aquí</a></p>
+<p>Puedes ver la demostración del proyecto <a href="https://jordanmedinaortiz.github.io/FourCardFeatureSection/" target="_blank">aquí</a></p>
