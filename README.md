@@ -17,8 +17,8 @@
 <h1 align="center">Características Principales</h1>
 <ul>
   <li>Disposición de cuatro tarjetas con estilos consistentes y modernos.</li>
-  <li>Diseño responsivo que funciona correctamente en dispositivos móviles, tablets y escritorios..</li>
-  <li>Uso de CSS Grid para gestionar el diseño de columnas y filas de manera flexible..</li>
+  <li>Diseño responsivo que funciona correctamente en dispositivos móviles, tablets y escritorios.</li>
+  <li>Uso de CSS Grid para gestionar el diseño de columnas y filas de manera flexible.</li>
 </ul>
 <hr>
 <h1 align="center">Aprendizajes Adquiridos</h1>
